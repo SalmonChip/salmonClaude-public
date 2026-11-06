@@ -1,0 +1,11 @@
+# 白名单模式：默认忽略根目录下的一切
+/*
+
+# 始终保留 .gitignore 自己
+!.gitignore
+
+# 只上传代码
+!/src/
+
+!/README.md
+!/LICENSE
